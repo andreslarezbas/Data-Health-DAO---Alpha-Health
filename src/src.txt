@@ -1,8 +1,8 @@
-descarga 
+descarga https://drive.google.com/open?id=1lJxYJmNnwDVnrE9e4lpDlh_QZ2QCmfhi
 
 muevelo a ../src/
 
 Descomprimelo 
 
-tar -xzvf archivo.tar.gz 
+tar -xzvf src.tar.gz 
 
