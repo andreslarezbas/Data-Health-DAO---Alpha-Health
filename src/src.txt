@@ -1,0 +1,8 @@
+descarga 
+
+muevelo a ../src/
+
+Descomprimelo 
+
+tar -xzvf archivo.tar.gz 
+
